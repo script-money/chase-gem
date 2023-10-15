@@ -1,0 +1,3 @@
+[submodule "contracts"]
+	path = contracts
+	url = git@github.com-script.money:script-money/chase-gem-contract.git
