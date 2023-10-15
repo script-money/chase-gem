@@ -1,3 +1,6 @@
 [submodule "contracts"]
 	path = contracts
 	url = git@github.com-script.money:script-money/chase-gem-contract.git
+[submodule "web"]
+	path = web
+	url = git@github.com-script.money:script-money/chase-gem-web.git
