@@ -1,6 +1,6 @@
 # ChaseGem
 
-![](./Screeshot.png)
+![screenshot](./screeshot.png)
 
 ChaseGem is a decentralized platform designed to help users discover and support trustable information sources called Gems. It aims to uncover niche, high-quality information sources across various fields that often have limited followers despite their exceptional content.
 
