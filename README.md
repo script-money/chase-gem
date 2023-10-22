@@ -4,6 +4,10 @@
 
 ChaseGem is a decentralized platform designed to help users discover and support trustable information sources called Gems. It aims to uncover niche, high-quality information sources across various fields that often have limited followers despite their exceptional content.
 
+[web repository](https://github.com/script-money/chase-gem-web)
+
+[contract repository](https://github.com/script-money/chase-gem-contract)
+
 ## Features
 
 - Administrators can add Tags and Gems to the platform
